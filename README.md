@@ -7,7 +7,12 @@ test the model with the test.csv and then u are all set.
 
 Following is the features description of the House price prediction Dataset:
 
+Target Variable:
+
 •	SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
+
+Features Variable:
+
 •	MSSubClass: The building class
 •	MSZoning: The general zoning classification
 •	LotFrontage: Linear feet of street connected to property
@@ -87,5 +92,4 @@ Following is the features description of the House price prediction Dataset:
 •	YrSold: Year Sold
 •	SaleType: Type of sale
 •	SaleCondition: Condition of sale
-![image](https://user-images.githubusercontent.com/48451542/117273014-2a5bd480-ae75-11eb-8159-3a2abd3a8f2d.png)
 
